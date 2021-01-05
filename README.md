@@ -1,2 +1,2 @@
-# thefinancescientist
-Personal Portfolio
+# The Finance Scientist
+Personal Portfolio of Daniel Morales
