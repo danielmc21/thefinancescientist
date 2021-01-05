@@ -18,6 +18,7 @@ Team project with applications of Markowitz portfolio optimization theory and Co
 (My Articles in LinkedIn):
 
 [Article: Learn Data Science for Free (for your New Year Resolutions)](https://www.linkedin.com/pulse/learn-data-science-free-your-new-year-resolutions-morales-ch%25C3%25A1vez)
+
 Jan 2021 - An article where I share how to learn Data Science.
 
 [Article: A.I. in Finance (but easy) - Part I](https://www.linkedin.com/pulse/ai-finance-easy-part-i-daniel-morales-chávez/)
