@@ -9,7 +9,10 @@ Feel free to contact me at [LinkedIn](https://www.linkedin.com/in/danielmc21/)
 # [Paper: M&A Market Efficiency Test](https://github.com/danielmc21/thefinancescientist/blob/main/M%26A%20Market%20Efficiency%20Paper.pdf)
 Academic Paper as a Team Project for the M&A subject of Master's in Finance
 
-# The A.I. Station:
+# [Project: Investment Portfolio](https://github.com/danielmc21/thefinancescientist/blob/main/Investments%20Portfolio%20project.pdf)
+Team project with applications of Markowitz portfolio optimization theory and Corporate Finance theory (Capital Asset Pricing Model - CAPM, Dividend Discount Model - DMM). In this project, five stocks were included in a simulation, using the principles of diversification and Sharpe-optimal portfolio to arrive to an asset allocation with a return above market and the lowest level of risk possible.
+
+# The A.I. Station (My Articles in LinkedIn):
 # [Article: Learn Data Science for Free (for your New Year Resolutions)](https://www.linkedin.com/pulse/learn-data-science-free-your-new-year-resolutions-morales-ch%25C3%25A1vez)
 Jan 2021 - An article where I share how to learn Data Science.
 # [Article: A.I. in Finance (but easy) - Part I](https://www.linkedin.com/pulse/ai-finance-easy-part-i-daniel-morales-chávez/)
