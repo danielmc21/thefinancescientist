@@ -1,6 +1,6 @@
 # The Finance Scientist
 
-Welcome to my Personal Portfolio, I am Daniel Morales and created this small site to share with you some of my projects, articles and more.
+Welcome to my Personal Portfolio, I am Daniel Morales Chávez and created this small site to share with you some of my projects, articles authored by me and more.
 
 Feel free to contact me at [LinkedIn](https://www.linkedin.com/in/danielmc21/)
 
