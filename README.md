@@ -1,8 +1,8 @@
 # The Finance Scientist
 
-Welcome to my Personal Portfolio, I am Daniel Morales and created this small site to share with you some of my projects, acrticles and more.
+Welcome to my Personal Portfolio, I am Daniel Morales and created this small site to share with you some of my projects, articles and more.
 
-Feel free to contact me in [LinkedIn](https://www.linkedin.com/in/danielmc21/)
+Feel free to contact me at [LinkedIn](https://www.linkedin.com/in/danielmc21/)
 
 
 # Academic Projects:
@@ -14,4 +14,3 @@ Academic Paper as a Team Project for the M&A subject of Master's in Finance
 Jan 2021 - An article where I share how to learn Data Science.
 # [Article: A.I. in Finance (but easy) - Part I](https://www.linkedin.com/pulse/ai-finance-easy-part-i-daniel-morales-chávez/)
 Dec 2020 - An article describing Artifitial Intelligence and Machine Learning in easy terms and real life examples. 
-
