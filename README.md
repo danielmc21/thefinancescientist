@@ -21,6 +21,10 @@ Team project with applications of Markowitz portfolio optimization theory and Co
 
 "Ley FinTech en México: Aciertos y Carencias" (FinTech regulation in Mexico: Strenghts and Weaknesses) is a research project for the dissertarion for the Master's in Finance where the new Mexican FinTech Law was analized and compared against other countries and where authors suggest additions to the regulation.
 
+# The Finance Station (Article section): 
+
+[Article: Is "hype" distorting Financial Markets?](https://www.linkedin.com/pulse/hype-distorting-financial-markets-daniel-morales-ch%25C3%25A1vez)
+
 # The A.I. Station (Article section): 
 
 [Article: Learn Data Science for Free (for your New Year Resolutions)](https://www.linkedin.com/pulse/learn-data-science-free-your-new-year-resolutions-morales-ch%25C3%25A1vez)
