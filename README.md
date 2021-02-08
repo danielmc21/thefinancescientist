@@ -23,14 +23,16 @@ Team project with applications of Markowitz portfolio optimization theory and Co
 
 # The Finance Station (Article section): 
 
-[Article: Is "hype" distorting Financial Markets?](https://www.linkedin.com/pulse/hype-distorting-financial-markets-daniel-morales-ch%25C3%25A1vez)
+[Pricing Options with Black-Scholes in Python](https://www.linkedin.com/pulse/pricing-options-black-scholes-python-daniel-morales-ch%25C3%25A1vez/?trackingId=gdZxdAD9lEEb1mnm7LtsZw%3D%3D)
+
+[Is "hype" distorting Financial Markets?](https://www.linkedin.com/pulse/hype-distorting-financial-markets-daniel-morales-ch%25C3%25A1vez)
 
 # The A.I. Station (Article section): 
 
-[Article: Learn Data Science for Free (for your New Year Resolutions)](https://www.linkedin.com/pulse/learn-data-science-free-your-new-year-resolutions-morales-ch%25C3%25A1vez)
+[Learn Data Science for Free (for your New Year Resolutions)](https://www.linkedin.com/pulse/learn-data-science-free-your-new-year-resolutions-morales-ch%25C3%25A1vez)
 
 Jan 2021 - An article where I share how to learn Data Science.
 
-[Article: A.I. in Finance (but easy) - Part I](https://www.linkedin.com/pulse/ai-finance-easy-part-i-daniel-morales-chávez/)
+[A.I. in Finance (but easy) - Part I](https://www.linkedin.com/pulse/ai-finance-easy-part-i-daniel-morales-chávez/)
 
 Dec 2020 - An article describing Artifitial Intelligence and Machine Learning in easy terms and real life examples. 
