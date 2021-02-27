@@ -7,6 +7,10 @@ Feel free to contact me at [LinkedIn](https://www.linkedin.com/in/danielmc21/)
 
 # Academic Projects:
 
+[Project: Is this how A.I. could disrupt FP&A?](https://www.linkedin.com/pulse/how-ai-can-disrupt-fpa-daniel-morales-ch%25C3%25A1vez/?trackingId=JMEW36jdR5yCGScGpafuwg%3D%3D)
+
+Academic project: Testing LSTM Neural Network for predicting revenues on a company.[Link to code](https://github.com/danielmc21/thefinancescientist/blob/main/LSTM%20CNN/Walmart.ipynb)
+
 The following documents were deliverables for the Master's in Finance and were reviewed by PhD professors with the same rigor as any MSc in quantitative finance in the world.
 
 [Paper: M&A Market Efficiency Test](https://github.com/danielmc21/thefinancescientist/blob/main/M%26A%20Market%20Efficiency%20Paper.pdf)
@@ -23,6 +27,8 @@ Team project with applications of Markowitz portfolio optimization theory and Co
 
 # The Finance Station (Article section): 
 
+[Project: Is this how A.I. could disrupt FP&A?](https://www.linkedin.com/pulse/how-ai-can-disrupt-fpa-daniel-morales-ch%25C3%25A1vez/?trackingId=JMEW36jdR5yCGScGpafuwg%3D%3D)
+
 [Pricing Options with Black-Scholes in Python](https://www.linkedin.com/pulse/pricing-options-black-scholes-python-daniel-morales-ch%25C3%25A1vez/?trackingId=gdZxdAD9lEEb1mnm7LtsZw%3D%3D)
 
 [Is "hype" distorting Financial Markets?](https://www.linkedin.com/pulse/hype-distorting-financial-markets-daniel-morales-ch%25C3%25A1vez)
@@ -30,8 +36,6 @@ Team project with applications of Markowitz portfolio optimization theory and Co
 # The A.I. Station (Article section): 
 
 [Learn Data Science for Free (for your New Year Resolutions)](https://www.linkedin.com/pulse/learn-data-science-free-your-new-year-resolutions-morales-ch%25C3%25A1vez)
-
-Jan 2021 - An article where I share how to learn Data Science.
 
 [A.I. in Finance (but easy) - Part I](https://www.linkedin.com/pulse/ai-finance-easy-part-i-daniel-morales-chávez/)
 
