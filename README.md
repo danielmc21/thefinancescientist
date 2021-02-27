@@ -11,6 +11,8 @@ Feel free to contact me at [LinkedIn](https://www.linkedin.com/in/danielmc21/)
 
 Academic project: Testing LSTM Neural Network for predicting revenues on a company.[Link to code](https://github.com/danielmc21/thefinancescientist/blob/main/LSTM%20CNN/Walmart.ipynb)
 
+--------------------------------------------------------------------------------------------
+
 The following documents were deliverables for the Master's in Finance and were reviewed by PhD professors with the same rigor as any MSc in quantitative finance in the world.
 
 [Paper: M&A Market Efficiency Test](https://github.com/danielmc21/thefinancescientist/blob/main/M%26A%20Market%20Efficiency%20Paper.pdf)
